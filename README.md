@@ -1,7 +1,7 @@
 # Red_Black-_Tree-virtualizer
-##Red_Black_Tree Properties
 
-1-Every node is either red or black.
+Red_Black_Tree Properties <br />
+1-Every node is either red or black. <br />
 2-Root is black.
 3-Every leaf (NULL) is black.
 4-If a node is red, then both its children are black.
